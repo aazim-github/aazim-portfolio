@@ -1,6 +1,12 @@
 
-my-portfolio-URL --> https://aazim-portfolio.onrender.com
+# my-portfolio-URL --> https://aazim-portfolio.onrender.com
 
+-- Digital Portfolio -- Digital Portfolio using JavaScript
+
+-- Description --> 
+
+- Digital Portfolio -- Digital Portfolio using JavaScript and deployed onto a unified cloud infrastructure. 
+- The project describes the hard skills, projects and work history about myself till date in a digital format.
 
 
 # Getting Started with Create React App
